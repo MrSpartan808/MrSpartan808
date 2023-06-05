@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Peter
 #### I am a Cyber Security Professional
 ![I am a Cyber Security Professional](https://pbs.twimg.com/profile_banners/224144026/1469752555/1500x500)
