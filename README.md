@@ -21,6 +21,6 @@ Skills: SQL/Python/Linux/ Vulnerability assessment/nmap/ wireshark/ Nessus
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrSpartan808)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/ peter-b-1b418553)  
 
-<script src="https://tryhackme.com/badge/2022772"></script>
+![tryhackme stats](https://raw.githubusercontent.com/<MrSparti>/<MrSparti>/master/assets/thm_propic.png)
 
 
