@@ -11,7 +11,10 @@ Skills: SQL/Python/Linux
 - 🌱 I’m currently learning Cyber Security Urban Infrastructure 
 - 👯 I’m looking to collaborate on Cyber Security 
 - 🤔 I’m looking for help with Hands on/Job experience 
-- 💬 Ask me about Anything! 
+- 💬 Ask me about Anything!
+<script src="https://tryhackme.com/badge/2022772"></script>
+
+
 - My Portfolio - https://github.com/MrSpartan808/MyPortfolio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrSpartan808)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/ peter-b-1b418553)  
